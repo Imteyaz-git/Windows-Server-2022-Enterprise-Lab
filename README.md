@@ -16,7 +16,7 @@ troubleshooting — not just a polished end state.
 
 | Phase | Status |
 |---|---|
-| 01 - Planning | 🟡 In Progress (repo/lab topology defined; VMs not yet built) |
+| 01 - Planning | 🟢 Done 
 | 02 - Server 2022 Install | ⚪ Not Started (ISO downloaded, not installed) |
 | 03 - AD DS Install + Promotion | ⚪ Not Started |
 | 04 - DNS Configuration | ⚪ Not Started |

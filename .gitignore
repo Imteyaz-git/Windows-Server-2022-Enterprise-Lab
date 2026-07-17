@@ -1,0 +1,35 @@
+# VM disk images and virtual machine files — never commit these
+*.vmdk
+*.vdi
+*.vhdx
+*.vhd
+*.ova
+*.ovf
+*.vbox
+*.vbox-prev
+*.nvram
+*.vmsd
+*.vmx.lck/
+*.vmxf
+
+# ISOs — too large for git, and licensed installer media shouldn't be redistributed
+*.iso
+
+# Snapshot/state files
+*.vmsn
+*.vmss
+*.sav
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE junk
+.vscode/
+*.swp
+
+# Logs and temp exports you don't mean to publish
+*.log
+/exports/
+/temp/

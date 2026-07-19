@@ -17,8 +17,8 @@ troubleshooting — not just a polished end state.
 | Phase | Status |
 |---|---|
 | 01 - Planning | 🟢 Done 
-| 02 - Server 2022 Install | ⚪ Not Started (ISO downloaded, not installed) |
-| 03 - AD DS Install + Promotion | ⚪ Not Started |
+| 02 - Server 2022 Install | 🟢 Done 
+| 03 - AD DS Install + Promotion | 🟡 In Progress
 | 04 - DNS Configuration | ⚪ Not Started |
 | 05 - DHCP Configuration | ⚪ Not Started |
 | 06 - OU Structure | ⚪ Not Started |

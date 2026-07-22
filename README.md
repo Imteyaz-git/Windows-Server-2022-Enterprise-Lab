@@ -19,8 +19,8 @@ troubleshooting — not just a polished end state.
 | 01 - Planning | 🟢 Done 
 | 02 - Server 2022 Install | 🟢 Done 
 | 03 - AD DS Install + Promotion | 🟢 Done
-| 04 - DNS Configuration | 🟡 In Progress
-| 05 - DHCP Configuration | ⚪ Not Started |
+| 04 - DNS Configuration | 🟢 Done (forwarder deferred — see phase notes)
+| 05 - DHCP Configuration | 🟡 In Progress|
 | 06 - OU Structure | ⚪ Not Started |
 | 07 - Users & Groups | ⚪ Not Started |
 | 08 - Client Domain Join | ⚪ Not Started |

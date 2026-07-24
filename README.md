@@ -22,8 +22,8 @@ troubleshooting — not just a polished end state.
 | 04 - DNS Configuration | 🟢 Done (forwarder deferred — see phase notes)
 | 05 - DHCP Configuration | 🟢 Done|
 | 06 - OU Structure | 🟢 Done |
-| 07 - Users & Groups | 🟡 In Progress |
-| 08 - Client Domain Join | ⚪ Not Started |
+| 07 - Users & Groups | 🟢 Done|
+| 08 - Client Domain Join | 🟡 In Progress |
 | 09 - Group Policy | ⚪ Not Started |
 | 10 - File Server / NTFS Permissions | ⚪ Not Started |
 | 11 - DFS | ⚪ Not Started |

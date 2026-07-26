@@ -23,8 +23,8 @@ troubleshooting — not just a polished end state.
 | 05 - DHCP Configuration | 🟢 Done|
 | 06 - OU Structure | 🟢 Done |
 | 07 - Users & Groups | 🟢 Done|
-| 08 - Client Domain Join | 🟡 In Progress |
-| 09 - Group Policy | ⚪ Not Started |
+| 08 - Client Domain Join | 🟢 Done |
+| 09 - Group Policy | 🟡 In Progress |
 | 10 - File Server / NTFS Permissions | ⚪ Not Started |
 | 11 - DFS | ⚪ Not Started |
 | 12 - Print Server | ⚪ Not Started |

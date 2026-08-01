@@ -25,7 +25,7 @@ troubleshooting — not just a polished end state.
 | 07 - Users & Groups | 🟢 Done|
 | 08 - Client Domain Join | 🟢 Done |
 | 09 - Group Policy | 🟢 Done |
-| 10 - File Server / NTFS Permissions | 🟡 In Progress |
+| 10 - File Server / NTFS Permissions | 🟡 In Progress (shares + NTFS permissions done; live access testing pending) |
 | 11 - DFS | ⚪ Not Started |
 | 12 - Print Server | ⚪ Not Started |
 | 13 - WDS | ⚪ Not Started |
